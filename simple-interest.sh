@@ -3,7 +3,9 @@
    # annual rate of interest and time period in years.
    
    # Do not use this in production. Sample purpose only.
-   
+
+   # Using vim is fun and rewarding
+
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
    # nup-pun
